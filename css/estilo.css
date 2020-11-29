@@ -1,0 +1,64 @@
+.jumbotron {
+	background-image: url('/img/Koala.jpg');
+	background-size: cover;
+	background-position:center;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #007bff;
+}
+.mestre{
+	width: 46px;
+	height:  46px;
+}
+
+.icones a{
+	display: block;
+	width: 36px;
+	height: 36px;
+}
+
+.icones li{
+	display: inline-block;
+	margin-left: 0.2rem; 
+}
+
+.icones a[href='https://github.com/']{
+	background-image: url('/img/github.png');
+	background-size: 36px 36px;
+}
+
+.icones a[href='https://www.google.com.br/']{
+	background-image: url('/img/Plus.png');
+	background-size: 36px 36px;
+}
+
+.icones a[href='https://br.linkedin.com/']{
+	background-image: url('/img/Linkedin.png');
+	background-size: 36px 36px;
+}
+
+.icones a[href='https://pt-br.facebook.com/']{
+	background-image: url('/img/Facebook-logo.png');
+	background-size: 36px 36px;
+}
+
+.copy{
+	color: #FFFFFF;
+}
+.avaliado{
+	color: #fff;
+}
+.card-header{
+	background-image: url('/img/hosp04.jpg');
+	background-size: cover;
+	background-position: center; 
+}
+/*
+.nav-link{
+	padding-top: ;
+	padding-left: ;
+	padding-right: ;
+	padding-bottom: ;
+	background: ;
+}
+*/
